@@ -12,7 +12,7 @@ diriger une souris à travers un plan ou il devrait atteindre un ou
 plusieurs buts éparpillés, cela en détectant 2 couleurs distinctes qui
 forme une flèche début et fin.
 
-2.  ![](vertopal_ece461147ba74764ac27d5fb85827721/media/image1.png){width="6.161111111111111in"
+2.  ![](image1.png){width="6.161111111111111in"
     height="4.866666666666666in"}**Notre Application :**
 
 Figure 1 : Vue initiale de notre interface.
